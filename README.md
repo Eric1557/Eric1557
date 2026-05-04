@@ -1,39 +1,31 @@
 # 👋 Olá, eu sou o Eric Bastos
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Focado em desenvolvimento backend com Java  
+💻 Focado em desenvolvimento backend com Java e criação de APIs REST com Spring Boot  
+
+🎯 Buscando oportunidade de estágio para aplicar e evoluir minhas habilidades em desenvolvimento backend
 
 ---
 
 ## 🚀 Tecnologias
-- Java
-- Spring Boot
-- JPA / Hibernate
-- MySQL
-- Git / GitHub
+
+- Backend: Java, Spring Boot  
+- Banco de dados: MySQL  
+- Persistência: JPA / Hibernate  
+- Ferramentas: Git, GitHub  
 
 ---
 
 ## 📌 Projetos em destaque
 
-🔹 API Clínica  
+🔹 [API Clínica](https://github.com/Eric1557/api-clinica)  
 - API REST desenvolvida com Spring Boot  
 - CRUD completo  
 - Integração com banco de dados  
 
-🔹 Sistema Bancário  
-- Simulação de operações bancárias  
-- Programação orientada a objetos  
+🔹 [API Spring Boot](https://github.com/Eric1557/Servico-Web-Spring-Boot-JPA-Hibernate)  
+- Desenvolvimento de API REST  
+- Uso de JPA / Hibernate  
+- Estrutura em camadas (Controller, Service, Repository)  
 
----
-
-## 📚 Atualmente estudando
-- Spring Boot avançado  
-- APIs REST  
-- Boas práticas de backend  
-
----
-
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/ericbastos/
-- Email: ericbbarbosa2019@gmail.com
+🔹
