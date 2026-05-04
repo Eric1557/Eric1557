@@ -18,14 +18,16 @@
 
 ## 📌 Projetos em destaque
 
-🔹 [API Clínica](https://github.com/Eric1557/api-clinica)  
+🔹 [API Clínica](https://github.com/Eric1557/api-clinica-springboot)  
 - API REST desenvolvida com Spring Boot  
 - CRUD completo  
 - Integração com banco de dados  
 
-🔹 [API Spring Boot](https://github.com/Eric1557/Servico-Web-Spring-Boot-JPA-Hibernate)  
+🔹 [API Spring Boot](https://github.com/Eric1557/api-clientes-springboot)  
 - Desenvolvimento de API REST  
 - Uso de JPA / Hibernate  
 - Estrutura em camadas (Controller, Service, Repository)  
 
-🔹
+🔹 [Gerenciador de Tarefas](https://github.com/Eric1557/gerenciador-tarefas-java)  
+- Aplicação em Java  
+- Uso de Programação Orientada a Objetos
